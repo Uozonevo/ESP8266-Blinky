@@ -2,8 +2,12 @@
 
 <!--![ESP8266 Image](ESP8266img.jpg)-->
 <p>
-<img align="left" hspace=20 src="ESP8266img.jpg">  
-This is a test project to show that the ESP8266 board I acquired works as intended. To start this project, I went through a number trials attempting to flash the LED on the RTC.
+<img align="left" hspace=20 src="ESP8266img.jpg"/> 
+This is a test project to show that the ESP8266 board I acquired works as intended. To complete this project, I went through a number trials attempting to flash the LED on the RTC. <br>
+
+On the left is an image of the board I will be using to show where the on-board LED is located, and the assorted I/O ports <br>
+
+Also displayed is the USB to TTL driver: **Important to Note for later** 
 </p>
 
 ## Progression 📈
