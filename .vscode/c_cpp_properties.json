@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/akuab/OneDrive/Documents/PlatformIO/Projects/251218-010238-esp8266-rtos-sdk-blink/src",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/extra_include",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/driver_lib/include",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/espressif",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv4",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv6",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/nopoll",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/spiffs",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/ssl",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/json",
+                "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/openssl",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/akuab/OneDrive/Documents/PlatformIO/Projects/251218-010238-esp8266-rtos-sdk-blink/src",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/extra_include",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/driver_lib/include",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/espressif",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv4",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/lwip/ipv6",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/nopoll",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/spiffs",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/ssl",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/json",
+                    "C:/Users/akuab/.platformio/packages/framework-esp8266-rtos-sdk/include/openssl",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "ESP8266",
+                "ARDUINO_ARCH_ESP8266",
+                "ARDUINO_ESP8266_NODEMCU_ESP12E",
+                "F_CPU=80000000L",
+                "__ets__",
+                "ICACHE_FLASH",
+                ""
+            ],
+            "cStandard": "gnu99",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/akuab/.platformio/packages/toolchain-xtensa/bin/xtensa-lx106-elf-gcc.exe",
+            "compilerArgs": [
+                "-mlongcalls",
+                "-mtext-section-literals",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
